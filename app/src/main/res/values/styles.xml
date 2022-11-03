@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="PressStart2P">
+        <item name="android:fontFamily">@font/press_start_2p</item>
+    </style>
 </resources>

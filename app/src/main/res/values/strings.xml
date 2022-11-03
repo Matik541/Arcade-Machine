@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Arcade-Machine</string>
+    <string name="back">Back</string>
+    <string name="restart">Restart</string>
 </resources>
